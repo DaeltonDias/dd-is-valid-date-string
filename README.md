@@ -17,7 +17,7 @@ import isValidDate from 'dd-is-valid-date-string';
 
 ```javascript
 
-// Valid formats
+// Valid dates and formats
 isValidDate('06.03.1997'); // returns true
 isValidDate('06-03-1997'); // returns true
 isValidDate('06/03/1997'); // returns true
